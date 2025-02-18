@@ -46,13 +46,13 @@ This repository contains a Python script to monitor email events using Cisco's E
 
 ## Usage
 
-   **Run the Script:**
+**Run the Script:**
    Execute the script to start monitoring:
    ```bash
    python etd_monitoring_script.py
 
 
-   **Schedule with Crontab (Optional):**
+**Schedule with Crontab (Optional):**
    You can schedule the script to run periodically using crontab. For example, to run every hour, add the following line to your crontab:
    ```bash
    0 * * * * /usr/bin/python3 /path/to/etd_verdict_watch.py
