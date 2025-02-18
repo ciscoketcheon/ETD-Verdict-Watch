@@ -58,7 +58,7 @@ This repository contains a Python script to monitor email events using Cisco's E
    0 * * * * /usr/bin/python3 /path/to/etd_verdict_watch.py
 
 
-##How It Works
+## How It Works
 
     API Query: The script queries the Cisco ETD API for email events within the last hour.
 
@@ -68,7 +68,7 @@ This repository contains a Python script to monitor email events using Cisco's E
 
     Customization: The script's behavior can be customized by adjusting the user-configurable variables at the top of the script.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
