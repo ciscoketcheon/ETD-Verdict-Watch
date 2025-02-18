@@ -37,7 +37,7 @@ This repository contains a Python script to monitor email events using Cisco's E
         TOKEN_URL, SEARCH_URL, API_KEY, CLIENT_ID, CLIENT_SECRET
         SMTP_SERVER, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, ADMIN_EMAIL
 
-   ** Monitored Mailboxes:**
+   **Monitored Mailboxes:**
         MONITORED_MAILBOXES: List of mailboxes to monitor.
 
    **Filtering Criteria:**
@@ -51,10 +51,12 @@ This repository contains a Python script to monitor email events using Cisco's E
    ```bash
    python etd_monitoring_script.py
 
+
    **Schedule with Crontab (Optional):**
    You can schedule the script to run periodically using crontab. For example, to run every hour, add the following line to your crontab:
    ```bash
    0 * * * * /usr/bin/python3 /path/to/etd_verdict_watch.py
+
 
 ##How It Works
 
