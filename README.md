@@ -81,7 +81,7 @@ Edit the script to configure the following variables:
 
 ## How do I know it works?
 
-Sample notification email received:-i
+Sample notification email received, I was monitoring Alpha and Bravo's mailboxes; looking out for BEC verdict:-
 
 ![](notification.jpg)
 
