@@ -1,6 +1,6 @@
 # ETD Verdict Watch Script
 
-Cisco Email Threat Defense (ETD) remediates security violation and BEC email automatically. There is no current notification mechanisme available. In a nutshell, neither user nor admininstrator kept informed on what had been convicted and remediated. This script is trying to close this gap by adding on manual notification layer by monitoring mailboxes and send notification. Not monitoring all mailboxes, but the selected few, e.g. for VIP users, or important accounts.  
+Cisco Email Threat Defense (ETD) remediates security violation and BEC email automatically. There is no current notification mechanisme available. In a nutshell, neither user nor admininstrator kept informed on what had been convicted and remediated. This script is trying to close this gap by adding on manual notification layer by monitoring mailboxes and send email notification. Not monitoring all mailboxes, but the selected few, e.g. for VIP users, or important accounts.  
 
 This repository contains a Python script to monitor email conviction events using Cisco's ETD API and notify an administrator of detected events via email.
 
