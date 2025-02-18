@@ -60,13 +60,13 @@ Edit the script to configure the following variables:
 
 ## How It Works
 
-    API Query: The script queries the Cisco ETD API for email events within the last hour.
+- API Query: The script queries the Cisco ETD API for email events within the last hour.
 
-    Event Filtering: Events are filtered based on user-defined verdicts and techniques.
+- Event Filtering: Events are filtered based on user-defined verdicts and techniques.
 
-    Email Notification: If matching events are found, an email is sent to the administrator with details of the events.
+- Email Notification: If matching events are found, an email is sent to the administrator with details of the events.
 
-    Customization: The script's behavior can be customized by adjusting the user-configurable variables at the top of the script.
+- Customization: The script's behavior can be customized by adjusting the user-configurable variables at the top of the script.
 
 ## License
 
