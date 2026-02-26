@@ -82,7 +82,7 @@ Edit the script to configure the following variables:
 
 ## How do I know it works?
 
-Sample notification email received, I was monitoring Alpha and Bravo's mailboxes; looking out for BEC verdict. Updated with nicer template instead of plain json output before:-
+Sample notification email received, I was monitoring Alan's mailboxes; looking out for Malicious verdict. Updated with nicer template instead of plain json output before:-
 
 ![](etd-alert-notification.jpg)
 
