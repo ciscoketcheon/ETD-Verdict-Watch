@@ -13,6 +13,7 @@ This repository contains a Python script to monitor email conviction events usin
 
 
 Release update
+- 26th Feb 2026 - Updated report email template with nicer table
 - 18th Feb 2025 - First release 
 
 ## Prerequisites
@@ -81,9 +82,9 @@ Edit the script to configure the following variables:
 
 ## How do I know it works?
 
-Sample notification email received, I was monitoring Alpha and Bravo's mailboxes; looking out for BEC verdict:-
+Sample notification email received, I was monitoring Alpha and Bravo's mailboxes; looking out for BEC verdict. Updated with nicer template instead of plain json output before:-
 
-![](notification.jpg)
+![](etd-alert-notification.jpg)
 
 
 
